@@ -1,0 +1,27 @@
+---
+title: What explains differences in waiting times to speciation in vertebrates?
+---
+
+# What explains differences in waiting times to speciation in vertebrates?
+
+Type: Perspective
+
+Possible traits:
+- Body size
+- Species range
+- Generation time
+- Latitude/Climate
+- Pre/post zygotic isolation
+- Temperature regulation
+- What more?
+
+Phylogenies:
+- Mammals: Upham et al. 2020 PLoS Biol.
+- Birds: Jetz et al. 2012 Nature
+- Squamata: Tonini et al. 2016 Biol. Cons.
+- Amphibians: Hime et al. 2020 Syst. Biol.
+- Other herps: Colston et al. 2020 BMC Evol. Biol.
+
+Approaches:
+- MRCA age of all pairwise combinations of species
+- Phylogenetic uncertainty
